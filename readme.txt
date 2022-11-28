@@ -4,9 +4,6 @@
 
 --------------------------------------------------------------------------------
 
-#Download
-https://drive.google.com/file/d/1mxwoG0DfxEEimWW77w5c_iD4mK9hzJlT/view?usp=sharing
-
 # Pre-Work 
 
 * Windows 환경에 맞게 구성된 내용임 (Unix/Linux 설정 시 해당 환경에 맞게 설정 하면 됨 원리는 동일 함)

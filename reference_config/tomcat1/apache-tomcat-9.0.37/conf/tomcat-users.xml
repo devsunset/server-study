@@ -42,7 +42,7 @@
   <user username="role1" password="<must-be-changed>" roles="role1"/>
 -->
 
-	<!-- [SERVER-WORK ADD] -->
+	<!-- [SERVER-STUDY ADD] -->
 	<role rolename="tomcat"/>
 	<role rolename="manager-gui"/>
 	<role rolename="manager-script"/>

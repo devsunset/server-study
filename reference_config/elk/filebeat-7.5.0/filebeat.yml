@@ -25,7 +25,7 @@ filebeat.inputs:
 
   # Paths that should be crawled and fetched. Glob based paths.
   paths:
-    - C:\dev\server-work\Apache2\logs\ssl_request.log
+    - C:\dev\server-study\Apache2\logs\ssl_request.log
     #- c:\programdata\elasticsearch\logs\*
 
   # Exclude lines. A list of regular expressions to match. It drops the lines that are

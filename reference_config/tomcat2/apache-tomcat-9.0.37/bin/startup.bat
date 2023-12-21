@@ -18,8 +18,8 @@ rem ---------------------------------------------------------------------------
 rem Start script for the CATALINA Server
 rem ---------------------------------------------------------------------------
 
-set "JAVA_OPTS=%JAVA_OPTS% -javaagent:C:/dev/server-work/scouter/scouter-all-2.8.1/agent.java/scouter.agent.jar"
-set "JAVA_OPTS=%JAVA_OPTS% -Dscouter.config=C:/dev/server-work/scouter/scouter-all-2.8.1/agent.java/conf/tomcat2.conf"
+set "JAVA_OPTS=%JAVA_OPTS% -javaagent:C:/dev/server-study/scouter/scouter-all-2.8.1/agent.java/scouter.agent.jar"
+set "JAVA_OPTS=%JAVA_OPTS% -Dscouter.config=C:/dev/server-study/scouter/scouter-all-2.8.1/agent.java/conf/tomcat2.conf"
 set "JAVA_OPTS=%JAVA_OPTS% -Dobj_name=tomcat2"
 
 setlocal

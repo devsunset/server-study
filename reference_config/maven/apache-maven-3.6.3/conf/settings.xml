@@ -52,8 +52,8 @@ under the License.
    | Default: ${user.home}/.m2/repository
   <localRepository>/path/to/local/repo</localRepository>
   -->
-	<!-- [SERVER-WORK] MODIFY -->
-	<localRepository>C:\dev\server-work\maven_repository</localRepository>
+	<!-- [SERVER-STUDY] MODIFY -->
+	<localRepository>C:\dev\server-study\maven_repository</localRepository>
   <!-- interactiveMode
    | This will determine whether maven prompts you when it needs input. If set to false,
    | maven will use a sensible default value, perhaps based on some other setting, for
